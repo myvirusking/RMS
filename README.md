@@ -9,9 +9,9 @@ Databses : Python File Handling Used
 
 Fully PYTHON Based Project with GUI.
 
-Also RMS.exe File available for directly run in windows.
-
 For Authentication : Username : ***av*** and Password : ***av***
+
+Also RMS.exe File available for directly run in windows.
 
 NO COPYRITHED ISSUE, EVERYONE CAN USED AND ALSO GET SOURCE CODE........
 
